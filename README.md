@@ -17,7 +17,7 @@ Bot that checks message in the email inbox and sends whatsapp message
 
 
 
-The ideia was using some API like twilio for create a bot number to read body mail and send to personal whatsapp number  
+The ideia was using some API like twilio for create a bot to read body mail and send to personal whatsapp number  
 
 
 first try -> programLong.py : long way and with decoder  
